@@ -33,3 +33,10 @@ application {
     // Define the main class for the application.
     mainClassName = "kodenjoy.AppKt"
 }
+
+tasks {
+    wrapper {
+        gradleVersion = "5.3"
+        distributionType = Wrapper.DistributionType.ALL
+    }
+}
