@@ -1,3 +1,3 @@
 application {
-    mainClassName = "kt.school.kodenjoy.bomberman.AppKt"
+    mainClassName = "kt.school.kodenjoy.bomberman.Bomberman"
 }
